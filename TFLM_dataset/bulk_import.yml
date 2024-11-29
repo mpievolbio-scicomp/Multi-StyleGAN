@@ -1,0 +1,9 @@
+---
+continue: "true"
+checksum_algorithm: "File-Size-64"
+logprefix: "logs/"
+output: "yaml"
+path: "import_paths.csv"
+columns:
+  - target
+  - path
